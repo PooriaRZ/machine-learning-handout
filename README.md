@@ -25,7 +25,7 @@ In progress ...
 To use this repository, simply clone it to your local machine using git:
 
 ```bash
-git clone [https://github.com/<username>/<repository-name>.git](https://github.com/PooriaRZ/self-learning-ml-handout.git)
+git clone https://github.com/PooriaRZ/self-learning-ml-handout.git
 ```
 
 Once you have cloned the repository, navigate to the directory where the repository was cloned and open the .ipynb files using Jupyter Notebook or any other compatible software.
