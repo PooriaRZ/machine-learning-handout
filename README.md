@@ -16,20 +16,16 @@ This course assumes that the learner has a basic understanding of the following:
 
 The course is divided into the following sections:
 
-* Introduction to scikit-learn
-* Regression
-* Classification
-* Clustering
-* Model Selection
-* Dimensionality Reduction
-* Ensemble Methods
+1. Basic Concepts of Machine Learning
+2. ...
+In progress ...
 
 ## How to Use
 
 To use this repository, simply clone it to your local machine using git:
 
 ```bash
-git clone https://github.com/<username>/<repository-name>.git
+git clone [https://github.com/<username>/<repository-name>.git](https://github.com/PooriaRZ/self-learning-ml-handout.git)
 ```
 
 Once you have cloned the repository, navigate to the directory where the repository was cloned and open the .ipynb files using Jupyter Notebook or any other compatible software.
